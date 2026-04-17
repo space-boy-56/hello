@@ -20,7 +20,7 @@
 ---
 
 ## 🌐 Socials
-- 📧 Email: **jeevanvish21@gmail.com**
+- 📧 Email: **legendsneverdie3409@gmail.com**
 
 ---
 
@@ -55,6 +55,10 @@
 
 ## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=jeevanvish21-sketch)
+# 🚀 My Idea Battle App
+
+Check it out here:
+https://judge-my-idea.lovable.app
 
 ---
 
